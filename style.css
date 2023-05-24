@@ -85,7 +85,7 @@ h6 {
 
   /* Font Weights */
   --fw-regular: 400;
-  --fw-semibold: 700;
+  --fw-bold: 900;
 }
 
 body {
@@ -94,7 +94,7 @@ body {
   color: var(--clr-text);
   font-family: var(--ff-main);
   font-weight: var(--fw-regular);
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .container {
@@ -132,8 +132,7 @@ body {
 .card__content-heading {
   color: var(--clr-heading);
   font-size: var(--fs-heading);
-  font-weight: var(--fw-semibold);
-  max-width: 95%;
+  font-weight: var(--fw-bold);
 }
 
 .card__content-paragraph {
