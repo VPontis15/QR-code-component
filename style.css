@@ -110,6 +110,7 @@ body {
   padding: 1em;
   background-color: #fff;
   border-radius: 1.25rem;
+  box-shadow: 0 0 5px;
 }
 
 .card__img-box {
